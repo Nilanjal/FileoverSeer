@@ -1,7 +1,7 @@
 
 FileOverseer !
 
-Fileoverseer is a python script which will organise youe files according to its extension.
+Fileoverseer is a python script which will organize your files according to its extension.
 
 How to Use:-
 
